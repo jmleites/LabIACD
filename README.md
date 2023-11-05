@@ -1,3 +1,4 @@
 # LabIACD
 
-teste
+Trabalho de liacd.
+Grupo 6.
